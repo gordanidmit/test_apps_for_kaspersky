@@ -1,0 +1,6 @@
+c:\users\gorny_da\documents\visual studio 2015\Projects\TestApp2\TestApp2\bin\Debug\TestApp2.exe.config
+c:\users\gorny_da\documents\visual studio 2015\Projects\TestApp2\TestApp2\bin\Debug\TestApp2.exe
+c:\users\gorny_da\documents\visual studio 2015\Projects\TestApp2\TestApp2\bin\Debug\TestApp2.pdb
+c:\users\gorny_da\documents\visual studio 2015\Projects\TestApp2\TestApp2\obj\Debug\TestApp2.csprojResolveAssemblyReference.cache
+c:\users\gorny_da\documents\visual studio 2015\Projects\TestApp2\TestApp2\obj\Debug\TestApp2.exe
+c:\users\gorny_da\documents\visual studio 2015\Projects\TestApp2\TestApp2\obj\Debug\TestApp2.pdb
